@@ -158,6 +158,10 @@ Provide leadership, and management with focus on reducing risk, improving techno
 Manage team(s) of business analysts, developers, business solution leads and other technology experts to achieve defined goals
 Manage technology budgets, monitors progress and adjusts resources and priorities accordingly
 Manage employees and responsible for all compensation decisions
+Build/maintain partnerships in a client driven environment; experience with handling clients and demonstrating partnership during situations and challenges
+Detailed knowledge of policies that govern technology at <Client> from programming standards, engineering design, maintenance, application activities, compliance, risk and security standards
+Effectively apply risk principles to challenging business situations
+Proactively drive innovative business solutions, use technical, enterprise, and business knowledge to work across structures to meet customer needs
 
 
 <app> provides <managers> with extensive decision support, streamlined workflows management capabilities and a rich repository of analytical data.
