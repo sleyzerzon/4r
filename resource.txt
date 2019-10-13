@@ -135,6 +135,9 @@ Create a productive work environment, and keep the team focused and fulfilled.
 Ensure the team fully understands the goals and objectives of <...> and how their work fits into the bigger picture.
 Knowledge of release management and deployment workflow processes, from development release through staging and production deployment.
 build productive cross-­departmental relationships and motivate team members, instill positive, can-do attitude and value collaboration within a team.
+Work closely with User Experience Designers, Project Managers and Back-End Engineers to implement an excellent user experience. 
+understand the Supplier SOWs and ensure suppliers are delivering work as agreed in SOW
+Ensure regular monitoring of SLAs and intervention if SLAs are endangered
 
 
 <app> provides <managers> with extensive decision support, streamlined workflows management capabilities and a rich repository of analytical data.
@@ -158,6 +161,7 @@ managers can track trade performance throughout the trade life-cycle
 perform transaction cost analysis
 Reporting options include: ad hoc reporting on any current data view, canned reports in Excel/Word/PDF including performance monitoring, profile, broker comparison and compliance
 report builder allows <managers> to construct their own ad-hoc reports
+Setup required Governance to ensure process and operations performance is reviewed at various levels <e.g. Operations resources, Process Managers, Process Owners, Service Delivery Managers across Service Providers>, at an agreed frequency <e.g. Daily, Weekly, Monthly, Quarterly>.
 
 
 <content server app> is a core content repository and foundational document management technology for <whom> giving control over documents and business content across the enterprise by securing and storing it throughout its lifecycle
