@@ -138,6 +138,26 @@ build productive cross-­departmental relationships and motivate team members, i
 Work closely with User Experience Designers, Project Managers and Back-End Engineers to implement an excellent user experience. 
 understand the Supplier SOWs and ensure suppliers are delivering work as agreed in SOW
 Ensure regular monitoring of SLAs and intervention if SLAs are endangered
+Agile experience (Jira, Github, Jenkins, Artifactory, UDeploy)
+Deliver broad functional or cross functional objectives and strategies for <groups managed>, in addition to supporting strategic business deliverables
+Take action and resolve issues quickly on complex, technical or sensitive topics with enterprise wide impact
+Drive optimal business outcomes leveraging strong technology skills 
+Implements technology solutions and supports business case development to meet current and anticipated business objectives
+Ensure Business objectives are properly aligned at all intersections
+Serve as primary contact to executive management for critical technology driven initiatives
+Responsible for the creation and development of technology solutions appropriate to the business needs & objectives
+Direct all development activities and oversees implementation of programs, projects or processes
+Responsible for ensuring all technology deliverables and associated work product are aligned and delivering to specification across approved change activities in accordance with governing Policies & Standards
+Escalation point for unresolved problems, complaints and highly complex or high visibility service requests
+Accountable for sound risk management through systems risk identification, action-plan execution and risk lifecycle ownership
+Serve as business Liaison to provide support and direction to business partners and technology service providers
+Set vision for technology in support of business strategy 
+Provide oversight regarding strategic alignment, prioritization, planning and development ( as well as coordination and implementation ) of platforms in support of <GHR> strategic plans and in the direction of technology standards
+Maintains close alignment with executive and line management to understand the firm and <GTST> goals and requirements
+Provide leadership, and management with focus on reducing risk, improving technology efficiency and enabling <our> business partners strategic objectives
+Manage team(s) of business analysts, developers, business solution leads and other technology experts to achieve defined goals
+Manage technology budgets, monitors progress and adjusts resources and priorities accordingly
+Manage employees and responsible for all compensation decisions
 
 
 <app> provides <managers> with extensive decision support, streamlined workflows management capabilities and a rich repository of analytical data.
@@ -161,7 +181,13 @@ managers can track trade performance throughout the trade life-cycle
 perform transaction cost analysis
 Reporting options include: ad hoc reporting on any current data view, canned reports in Excel/Word/PDF including performance monitoring, profile, broker comparison and compliance
 report builder allows <managers> to construct their own ad-hoc reports
-Setup required Governance to ensure process and operations performance is reviewed at various levels <e.g. Operations resources, Process Managers, Process Owners, Service Delivery Managers across Service Providers>, at an agreed frequency <e.g. Daily, Weekly, Monthly, Quarterly>.
+Setup required Governance to ensure process and operations performance is reviewed at various levels <e.g. Operations resources, Process Managers, Process Owners, Service Delivery   Managers across Service Providers>, at an agreed frequency <e.g. Daily, Weekly, Monthly, Quarterly>.
+Mentor <SIAM> team, define and coordinate day-to-day responsibilities of <service management> staff
+Establish and maintain strong, productive, and collaborative relationships with <the Service Providers/vendors>
+Handle Dispute Management and Escalation Management to ensure smooth Operations
+Experience in Change and Release management
+Documentation, Knowledge and Transition management
+
 
 
 <content server app> is a core content repository and foundational document management technology for <whom> giving control over documents and business content across the enterprise by securing and storing it throughout its lifecycle
