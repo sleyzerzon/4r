@@ -1,0 +1,174 @@
+https://www.youtube.com/watch?time_continue=95&v=2cyY3Z3Pm-U
+
+
+https://www.indeed.com/jobs?q=wealth%20management&l=New%20York%2C%20NY&vjk=b016d75998d18f57&advn=1862100613666468
+https://www.indeed.com/jobs?q=wealth%20management&l=New%20York%2C%20NY&vjk=1cce89c4016d7a7e
+https://www.indeed.com/jobs?q=wealth%20management&l=New%20York%2C%20NY&vjk=2a855444d7df0d03
+https://www.indeed.com/jobs?q=wealth%20management&l=New%20York%2C%20NY&vjk=0a9cd3d2658fef64
+
+https://www.glassdoor.com/job-listing/lead-java-developer-and-programmer-analyst-citi-JV_IC1126819_KO0,42_KE43,47.htm?jl=3313124501&ctt=1570966825878&srs=EI_JOBS&dclid=CJKK_byTmeUCFYSeyAodRekG8g
+
+Utilize in-depth knowledge and skills across multiple Applications Development areas to provide technical oversight across systems and applications
+Review and analyze proposed technical solutions for projects
+Contribute to formulation of strategies for applications development and other functional areas
+Develop comprehensive knowledge of how areas of business integrate to accomplish business goals
+Provide evaluative judgment based on analysis of factual data in complicated and unique situations
+Impact the Applications Development area through monitoring delivery of end results
+Participate in budget management, and handling day-to-day staff management issues, including resource management and allocation of work within the team/project
+Ensure essential procedures are followed and contribute to defining standards
+negotiate with external parties when necessary
+assess risks when making business decisions with consideration for safeguarding Citi's & its clients reputation and assets 
+drive compliance with applicable laws, rules and regulations
+apply sound ethical judgment regarding team members' personal behavior,conduct and business practices
+effectively supervise teams activity
+
+create and define business, functional and application architecutre designs as per business requirements
+architect <...> solutions using best practices and proven methods
+deliver internal and customer-facing projects utilizing products within the <...> stack
+create customer-facing documentation including architectural design, topologies and test plans
+along with the <...> team(s) provide ongoing support to existing customer base
+perform <...> training and workshops both in-person and remotely
+
+
+Authored business case, initiated program and managed 5 year roadmap to build a <valuation and risk platform> achieving regulatory compliance and yielding over $100mm in direct business benefits.
+
+drive a diverse portfolio or programs and projects varying from <establishing sound data governance to developing advanced analytics capabilities> using Big Data and AI
+managing large scale data and analytics program with multiple projects and stakeholders
+work with senior executives, engineers and operations in governing demand and execution planning
+bring structure and templates to create repeatable processes and transparency in the life-cycle of new demand to successful execution
+presentation and interpersonal skills to deliver the message based on the audience
+multi-task in an extremely fast-paced environment and work effectively <in a matrix organization>
+broad expertise of Wealth management. Investment banking. Asset management. Retail banking business
+
+define and deliver key strategic enhancements for <Citi digital wealth propositions (... Data Platform, Knowledge Direct)> globally, with a specific focus on serving customers in <the Americas>
+
+close interaction with business, GTM, development, content and other product stakeholders to execute and manage the product roadmaps
+Work with a team of <Product Managers/Specialists> setting clear direction and objectives in line with the wider WM strategy
+Develop a detailed understanding of content and workflows core to the <Digital Wealth Management> business as well as the wider business platform strategy
+Manage the requirements gathering, development and deployment of key Wealth Management digital propositions:
+	- Engaging with customers (and Citi Subject Matter Experts (SME))
+	- Working with design experts to fashion the optimal workflow / customer experience
+	- Working with development resource (including 3rd party) to transform requirements into product deliverables
+	
+Manage the complete product lifecycle including requirements, release plans, release criteria/readiness and product launch activities including product End of Life.
+Contribute to wider strategic initiatives as a SME with the aim of shaping and evolving the overall WM strategy
+Work with strategic 3rd parties who will assist in the delivery of the product vision
+Collate/review feedback and feature requests to define and manage the product roadmap and backlog
+Work directly with <Proposition, Development, QA and Content Management> on product deliverables
+Interaction with other business areas and product owners – define and agree product strategy across the platform for <funds and fund capabilities>
+Maintain and update all product related documentation/sites <PAZ, Teams, My Refinitiv etc.>:
+	- Work with product marketing to ensure relevant client facing material is available and up to date for the product suite
+	- Work with the learning on supporting documentation and/or videos are provided for product launch/support purposes
+Management and development of client usage reports
+Provide service support to the <Product Specialist> Team
+
+Key Relationships:
+
+	- Wider WM Product Teams principally based in USA, Europe and India
+	- Regional Wealth Management Proposition Teams
+	- Development and Technology
+	- QA
+	- Service/Support organization including product specialist teams
+	- Other business/product owners
+	- Content Operations
+	- Content Management
+	- WM Clients in the Americas
+
+deliver high-quality products for a demanding and diverse customer base
+communicate at all levels and work effectively with customers, business, service and technology stakeholders
+manage multiple projects in a dynamic environment
+work across teams and within a virtual global team
+
+
+the program & project management of <...Management Data, Analytics and Innovation> initiatives
+preparing updates for different steering and working groups
+engage with key stakeholders from <investments, trading, products, sales and operations> to capture new demand
+document business benefits, current challenges, drivers, user journeys and work-flows as required to provide more context on the demand
+engage with IT leads to plan solutions for prioritized efforts
+establish monthly process to review demand and status with key executives, to prioritize new projects and govern overall program
+collaborate with people within <... and with broader ...> organization
+
+Serve as subject-matter expert within <project name(s)> implementation and upgrade projects.
+Analyze and evaluate requirements while providing product expertise and guidance throughout the project.
+Ensure the solution meets the <clients> business needs and that the client is prepared to assume ownership and operate the solution after go-live.
+Provide assistance to members of the <...> team and pro-actively develop and share best practices.
+Analyze and evaluate <client> requirements in order to help <...> respond to sales opportunities.
+Educate <clients> on the functionality provided by <app>
+Advise on best practices regarding the implementation and operation of <app>
+Monitor and evaluate <client> requirements to identify potential enhancements to <app>
+Document and communicate <product> improvements 
+Contribute to software quality by clearly communicating defects to Technical Support and Product Management teams
+Support the defect resolution process by providing clear descriptions of defects and validating the resulting fixes (JIRA, bitbucket)
+Identify errors and mistakes in documentation and suggest corrections and improvements
+understanding of <investment management and> wealth management work flows
+understanding of derivatives and FX, SQL and relational databases
+Familiarity with FIX protocol
+understand <client> needs and build effective relationships, decompose complex issues into components and perform root cause analysis, work within a team environment and be focused on providing high-quality service while openly sharing knowledge and experience, manage multiple projects in parallel, effectively manage remote teams
+Contribute to sales presentations and proof-of-concept projects to demonstrate the potential of <...> to satisfy specific client needs.
+Liaise with technical leaders and teams across <dept name(s)> to define the <technical and reporting requirements>
+Provide leadership and overall direction to the <engineering team name>
+Liaise with <team(s)> to devise solutions that will integrate seamlessly with <apps, layers> and ensure maximum performance
+Define solution implementation roadmap and timelines
+Liaise with the <delivery teams> to create POCs, identify project risks and resource requirements
+Drive delivery teams to set and meet migration timelines onto end state services
+Facilitate, lead and present solution design within various internal <and external> forums
+Orchestrate regular knowledge share and planning sessions with feature team SMEs
+Evaluate internal and external software solutions which could be leveraged to meet target state architecture goals
+Consider industry standard practices for server side development (micro services approaches in delivering the services, application oo architectures and principles)
+Determine the approach for oversite and management of middle tier metadata
+Liaise with <teams> to set devops / workflow for change management, version control and master metadata management  in a large scale agile development environment
+Enterprise Level systems integration
+Development skills in Java / C++, Database architecture and development, SQL expertise, Business Intelligence / Analytics experience
+manage and continue to grow a software engineering team, drive the successful delivery of platforms and products while contributing to the product strategy, platform, and roadmap.
+growing highly productive technical teams
+build a successful SaaS product
+Lead, coach and support a highly effective team of passionate engineers to foster a high performance culture.
+Recruit engineering talent and participate in the recruiting flow including attracting, screening, and closing high caliber candidates.
+Build trusting relationships and collaborate cross departmentally to execute on company strategy.
+Set the technical direction for the team, drive the evolution of the systems architecture, and make appropriate technology choices.
+Manage the delivery of software using Agile best practices including continuous deployment, continuous integration and test driven development.    
+Take a hands-on approach to the entire software development lifecycle: perform day-to-day project management to ensure successful, on-­‐time releases; demonstrate ownership and accountability for the team’s delivery.
+Work effectively with product managers, engineers and the engineering leadership team to allocate engineering resources appropriately across various projects, including balancing customer needs with longer-term product roadmap needs.
+Implement processes and metrics to ensure that the team is extremely efficient and focused, and that products are market ready.
+Enable a culture of creativity, collaboration, speed, innovation and excellence while continuously elevating the quality and caliber of our engineering organization.
+Create a productive work environment, and keep the team focused and fulfilled.
+Ensure the team fully understands the goals and objectives of <...> and how their work fits into the bigger picture.
+Knowledge of release management and deployment workflow processes, from development release through staging and production deployment.
+build productive cross-­departmental relationships and motivate team members, instill positive, can-do attitude and value collaboration within a team.
+
+
+<app> provides <managers> with extensive decision support, streamlined workflows management capabilities and a rich repository of analytical data.
+<app> helps enable accurate and timely investment decision support for wealth managers 
+<app> supports the entire investment lifecycle, from portfolio and risk management through trading and post-trade settlement, with integrated compliance management throughout
+<app> provides real-time cash and position data
+<app> combines a range of services, software hosted in a private cloud, data and FIX connectivity
+<app> helps ensure that necessary data is supplied and managed correctly
+<app> supports the diverse and demanding requirements of <wealth/asset managers>
+<app> supports the full range of financial products, from basic asset class-specific to solution oriented and complex multi-asset products
+help <investment> managers combat margin compression, address growing regulatory mandates and support innovative new products
+<app> decouples <managers'> investment process from back office accounting systems...
+<app> allows <whom> to obtain an investment-centric view of their portfolios that enables innovation and reduces manual workflows
+<app> helps leveraging the massive volumes of historical data to make more informed decisions
+<app> helps to improve risk monitoring and performance evaluation
+<app's> simplified SaaS operating model helps improve investment managers productivity, simplifies operations and lowers technology costs
+Enterprise-class scalability and performance
+<app> offers <#> canned benchmarks with the ability to customise
+Reports can be run one-off or scheduled daily, weekly, monthly and quarterly, with <managers> selecting the detail level they require
+managers can track trade performance throughout the trade life-cycle
+perform transaction cost analysis
+Reporting options include: ad hoc reporting on any current data view, canned reports in Excel/Word/PDF including performance monitoring, profile, broker comparison and compliance
+report builder allows <managers> to construct their own ad-hoc reports
+
+
+<content server app> is a core content repository and foundational document management technology for <whom> giving control over documents and business content across the enterprise by securing and storing it throughout its lifecycle
+Capture, store & track the lifecycle of <whose> electronic documents
+<Content Server app> allows to implement and track good corporate governance practices and reduce the risk of non-compliance, improve managers' productivity through faster and easier information retrieval, Leverage other technology investments by scaling <...>
+Capture and extract the value in your electronic document assets
+allows to organize and share electronic documents into hierarchies of folders and compound documents
+delivers extreme Enterprise caliber performance
+allows to associate extra sets of metadata attributes and multiple taxonomic classifications with documents for enhanced search and retrieval 
+allows documents classification according to alternate taxonomic hierarchies
+graphical document workflows allows for automation of change request, review and approval processes
+WebDAV-compliant
+supports multiple desktop authoring tools
+allows fine-tuned access to documents based on flexible permissioning scheme as well as auditing of all document events
