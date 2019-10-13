@@ -58,7 +58,7 @@ Work directly with <Proposition, Development, QA and Content Management> on prod
 Interaction with other business areas and product owners – define and agree product strategy across the platform for <funds and fund capabilities>
 Maintain and update all product related documentation/sites <PAZ, Teams, My Refinitiv etc.>:
 	- Work with product marketing to ensure relevant client facing material is available and up to date for the product suite
-	- Work with the learning on supporting documentation and/or videos are provided for product launch/support purposes
+	- Work with the <learning> on supporting documentation and/or videos are provided for product launch/support purposes
 Management and development of client usage reports
 Provide service support to the <Product Specialist> Team
 
