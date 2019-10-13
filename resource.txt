@@ -50,7 +50,7 @@ Manage the requirements gathering, development and deployment of key Wealth Mana
 	- Working with design experts to fashion the optimal workflow / customer experience
 	- Working with development resource (including 3rd party) to transform requirements into product deliverables
 	
-Manage the complete product lifecycle including requirements, release plans, release criteria/readiness and product launch activities including product End of Life.
+Manage the complete product lifecycle including requirements, release plans, release criteria/readiness, product launch/endo of life activities.
 Contribute to wider strategic initiatives as a SME with the aim of shaping and evolving the overall WM strategy
 Work with strategic 3rd parties who will assist in the delivery of the product vision
 Collate/review feedback and feature requests to define and manage the product roadmap and backlog
