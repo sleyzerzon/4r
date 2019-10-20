@@ -206,3 +206,22 @@ graphical document workflows allows for automation of change request, review and
 WebDAV-compliant
 supports multiple desktop authoring tools
 allows fine-tuned access to documents based on flexible permissioning scheme as well as auditing of all document events
+
+
+Manage and coach a team of distributed software engineers
+Own and refine system architecture spanning multiple products
+Maintain a culture focusing on quality, continuous improvement and learning opportunities
+Define/design features for the product in an agile environment
+Hands on development 
+Deliver user-facing visualizations
+
+Extensive leadership experience and strong teaming abilities
+extensive experience leading big transformation projects, process optimization and onboarding of new technologies
+
+<person> has played various roles throughout his career from Team Lead to Senior Architect. Nowadays, he is interested in digital transformation, IT platform construction, team management
+
+digital transformation
+digitize workflow
+
+
+
